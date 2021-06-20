@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Deborah
+- 👀 I’m interested in learning HTML, CSS, Javascript, and C++
+- 💞️ I’m looking to collaborate on nothing really
